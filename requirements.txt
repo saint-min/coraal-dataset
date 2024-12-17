@@ -1,0 +1,4 @@
+datasets==3.2.0
+jsonlines==4.0.0
+more_itertools==10.5.0
+tqdm==4.67.1
