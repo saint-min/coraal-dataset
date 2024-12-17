@@ -34,9 +34,9 @@ This will generate train / val / test jsonl files like below.
       "start_time": 2210.787,
       "end_time": 2211.325
     },
-    // ...
+    "..."
   ],
-  // ...
+  "..."
 }
 ```
 
